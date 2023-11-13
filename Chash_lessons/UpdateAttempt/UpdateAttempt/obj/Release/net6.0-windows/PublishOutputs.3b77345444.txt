@@ -1,0 +1,5 @@
+C:\Users\daniel.solomon\Desktop\Chash_lessons\UpdateAttempt\UpdateAttempt\bin\Release\net6.0-windows\app.publish\UpdateAttempt.exe
+C:\Users\daniel.solomon\Desktop\Chash_lessons\UpdateAttempt\UpdateAttempt\bin\Release\net6.0-windows\app.publish\UpdateAttempt.dll
+C:\Users\daniel.solomon\Desktop\Chash_lessons\UpdateAttempt\UpdateAttempt\bin\Release\net6.0-windows\app.publish\UpdateAttempt.deps.json
+C:\Users\daniel.solomon\Desktop\Chash_lessons\UpdateAttempt\UpdateAttempt\bin\Release\net6.0-windows\app.publish\UpdateAttempt.runtimeconfig.json
+C:\Users\daniel.solomon\Desktop\Chash_lessons\UpdateAttempt\UpdateAttempt\bin\Release\net6.0-windows\app.publish\UpdateAttempt.pdb

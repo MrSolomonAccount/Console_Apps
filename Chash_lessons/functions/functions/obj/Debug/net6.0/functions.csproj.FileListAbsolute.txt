@@ -1,0 +1,14 @@
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\bin\Debug\net6.0\functions.exe
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\bin\Debug\net6.0\functions.deps.json
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\bin\Debug\net6.0\functions.runtimeconfig.json
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\bin\Debug\net6.0\functions.dll
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\bin\Debug\net6.0\functions.pdb
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\obj\Debug\net6.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\obj\Debug\net6.0\functions.AssemblyInfoInputs.cache
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\obj\Debug\net6.0\functions.AssemblyInfo.cs
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\obj\Debug\net6.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\obj\Debug\net6.0\functions.dll
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\obj\Debug\net6.0\refint\functions.dll
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\obj\Debug\net6.0\functions.pdb
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\obj\Debug\net6.0\functions.genruntimeconfig.cache
+C:\Users\daniel.solomon\Desktop\Chash_lessons\functions\functions\obj\Debug\net6.0\ref\functions.dll
